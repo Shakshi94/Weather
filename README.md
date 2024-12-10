@@ -1,8 +1,21 @@
-# React + Vite
+# Weather Web Application 🌤️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive Weather Web Application built using React and Vite. It allows users to search for weather information by city and displays details such as temperature, humidity, and weather conditions in an interactive and visually appealing interface.
 
-Currently, two official plugins are available:
+## 🌟 Features
+- **Search by City**: Get weather updates for any city in the world.
+- **Real-time Data**: Displays current temperature, humidity, and weather conditions.
+- **Dynamic Icons**: Visual representation of weather using icons.
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+Check out the live application here:  
+[Weather Web Application](https://weather-web-application-646.netlify.app/)
+
+## 🛠️ Technologies Used
+- **React**: Frontend library for building user interfaces.
+- **Vite**: Lightning-fast development environment.
+- **Material UI**: Pre-styled components for a sleek design.
+- **CSS**: For styling and making it responsive.
+- **Netlify**: Hosting and deployment.
+

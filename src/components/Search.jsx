@@ -57,7 +57,7 @@ function Search({ updateInfo }) {
         <div>
             <Box className="search_Box" sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', padding: 4 }}>
                 <Typography variant="h3" sx={{ textAlign: "center", color: "black", marginBottom: 3 }}>
-                    Weather Updater
+                    Weather Web Application
                 </Typography>
                 <form onSubmit={handleSubmit} style={{ width: '100%', maxWidth: '400px', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                     <TextField
